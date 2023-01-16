@@ -1,0 +1,1 @@
+Aplicação de enquetes ensinada no tutorial de iniciantes da documentação do Django.
